@@ -1,0 +1,3 @@
+[submodule "y"]
+	path = pallets/test-pallet
+	url = https://github.com/substrate-developer-hub/substrate-pallet-template
